@@ -1,7 +1,7 @@
 ### NFT Marketplace
 Basic NFT Marketplace
 
-Did not use hardhat for this project
+Did not use hardhat/foundry for this project
 
 Generated abis in Remix
 
